@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/user-web",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React user components",
   "main": "dist/index",
   "scripts": {
