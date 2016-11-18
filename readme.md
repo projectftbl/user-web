@@ -1,3 +1,3 @@
-### @ftbl/user-web
+### @recipher/user-web
 
 User web components.
